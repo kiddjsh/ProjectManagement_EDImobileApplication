@@ -2,7 +2,7 @@
 
 # Project Package
 
---1.	Executive Summary
+1.	Executive Summary
 
 Founded in 1603, Green Man’s Pantry brings only authentic vegan goods, with a touch of ayurveda practices. From his own flurry of leaves, the company regularly introduces innovative plant-based alternatives, offering an assortment of products from all countries of the world, to their customers, that include various kinds of plants, plant milk and creams, seeds, mayonnaise, dressings, mock meat, fish substitutes, breads, pastries, vegan cheeses, chocolate, sweets, coffee, toiletries, cosmetics and food for domesticated animals—ranging from protein products, breakfast items, chilled goods and frozen food. All products are strictly plant-based as well as being certified organic.
 
@@ -10,7 +10,7 @@ Green Man’s Pantry has partnered with Shade Leaf Engineering & Consulting, an 
 meet the client’s need of this segment. Shade Leaf Engineering & Consulting was formed as an Ohio L.L.C by founder and owner Joshua Kidder, Simple Software Engineer; Students at DeVry University, BA of Software Programming and is based in Xenia.
 
 
-#Work Breakdown Schedule
+# Work Breakdown Schedule
 
 ![wbs_one](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/wbs_one.PNG)
 ![wbs_two](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/wbs_two.PNG)
