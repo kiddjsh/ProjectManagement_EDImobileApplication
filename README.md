@@ -34,7 +34,7 @@ the project executive will begin sending up approval requests, for funds, that h
 
 The accompanying table has been provided outlining the actual budgeted costs of the project, which includes refined work packages/chunks, with accurate estimates at a detailed level. Included in the projected actual costs is a budget contingency that is currently recognized as a separate project cost estimate type, equaling fifteen percent of the total estimated cost of the projected software development budget that has been estimated to be accurate estimates. The idea of the budget contingency is that if the project runs into delays, that incur additional expenses, these additional expenses can be taken from the contingency plan, with a memo request for extension/approval, accounting for the purchase, the funds spent, and account drawn from. Any left-over budgeting funds will start the allocation of extra funds to cover uncertainties and improve the chances that the project can be completed within the time frame originally specified. Sometime during the system testing phase, management will determine if additional contractor/support will be needed for architectural design of the software mobile application, for successful project completion. If the contingency budget funds are not used throughout the software development lifecycle of this project, then the funds will be re-allocated, into the next development phase of the web development application services, after the completion of the mobile application development phase.
 
-![costestimations]()
+![costestimations](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/costestimations.PNG)
 
 1.5   Project Team Management
 
