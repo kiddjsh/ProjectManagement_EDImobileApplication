@@ -16,23 +16,23 @@ modern, compelling user-friendly interface design and set of design templates.
 Several milestones have been established and will act as a set of goals and a tracking mechanism for achieving the goals. While the milestones are initially static; they can be dynamic if needed. The accompanying table lists important project milestones, with estimated dates of completion. The milestone schedule indicates out emphasis on planning for implementation.
 
                                              
-Milestones                               | Start      | Finish     |
----------------------------------------- | ---------- | ---------- | 
-Green Man's Pantry Portal                | 11/02/2020 | 11/30/2021 |           
-Scope                                    | 11/02/2020 | 12/18/2020 | 
-Analysis/Software Requirements (Phase 1) | 12/21/2020 | 01/08/2021 | 
-Purchasing (Phase 1)                     | 01/11/2021 | 01/15/2021 | 
-System Design (Phase 2)                  | 01/18/2021 | 03/31/2021 | 
-Physical Design (Phase 3)                | 04/01/2021 | 04/16/2021 | 
-Mobile Application Coding (Phase 4)      | 04/19/2021 | 06/30/2021 | 
-System Testing (Phase 5)                 | 07/01/2021 | 07/30/2021 |
-User Training (Phase 6)                  | 08/02/2021 | 08/13/2021 |
-User Documentation (Phase 6)             | 08/16/2021 | 08/27/2021 |
-System Installation (Phase 7)            | 08/30/2021 | 09/15/2021 |
-Pilot (Phase 8)                          | 09/16/2021 | 10/15/2021 |
-System Deployment (Phase 9)              | 10/18/2021 | 11/19/2021 |
-Post Implementation Review               | 11/22/2021 | 11/30/2021 |
-Software Development Template Complete   | 11/30/2021 | 11/30/2021 |
+Milestones                                                                                                                             | Start      | Finish     |
+-------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | 
+Green Man's Pantry Portal                                                                                                              | 11/02/2020 | 11/30/2021 |           
+Scope                                                                                                                                  | 11/02/2020 | 12/18/2020 | 
+Analysis/Software Requirements (Phase 1)                                                                                               | 12/21/2020 | 01/08/2021 | 
+Purchasing (Phase 1)                                                                                                                   | 01/11/2021 | 01/15/2021 | 
+System Design (Phase 2)                                                                                                                | 01/18/2021 | 03/31/2021 | 
+Physical Design (Phase 3)                                                                                                              | 04/01/2021 | 04/16/2021 | 
+Mobile Application Coding (Phase 4)                                                                                                    | 04/19/2021 | 06/30/2021 | 
+System Testing (Phase 5)                                                                                                               | 07/01/2021 | 07/30/2021 |
+User Training (Phase 6)                                                                                                                | 08/02/2021 | 08/13/2021 |
+User Documentation (Phase 6)                                                                                                           | 08/16/2021 | 08/27/2021 |
+System Installation (Phase 7)                                                                                                          | 08/30/2021 | 09/15/2021 |
+Pilot (Phase 8)                                                                                                                        | 09/16/2021 | 10/15/2021 |
+System Deployment (Phase 9)                                                                                                            | 10/18/2021 | 11/19/2021 |
+Post Implementation Review                                                                                                             | 11/22/2021 | 11/30/2021 |
+Software Development Template Complete                                                                                                 | 11/30/2021 | 11/30/2021 |
 
 
 1.3   Business Need
