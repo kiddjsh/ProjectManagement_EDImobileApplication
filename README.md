@@ -77,6 +77,14 @@ A strong matrix structure has been selected for this software development projec
 
 # 5. Risk Management Plan
 
+![risk_one]()
+![risk_two]()
+![risk_three]()
+![risk_four]()
+![risk_five]()
+![risk_six]()
+![risk_seven]()
+
 # 6. Project Budget and Resource Management Plan
 
 # 7. Communications Management Plan
