@@ -77,13 +77,14 @@ A strong matrix structure has been selected for this software development projec
 
 # 5. Risk Management Plan
 
-![risk_one]()
-![risk_two]()
-![risk_three]()
-![risk_four]()
-![risk_five]()
-![risk_six]()
-![risk_seven]()
+![risk_one](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/risk_one.PNG)
+![risk_two](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/risk_two.PNG)
+![risk_three](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/risk_three.PNG)
+![risk_four](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/risk_four.PNG)
+![risk_five](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/risk_five.PNG)
+![risk_six](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/risk_six.PNG)
+![risk_seven](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/risk_seven.PNG)
+![risk_eight](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/risk_eight.PNG)
 
 # 6. Project Budget and Resource Management Plan
 
