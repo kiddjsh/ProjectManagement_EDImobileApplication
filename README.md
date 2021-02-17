@@ -18,7 +18,7 @@ modern, compelling user-friendly interface design and set of design templates.
 
 
 
-# Work Breakdown Schedule
+# 4. Work Breakdown Schedule
 
 ![wbs_one](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/wbs_one.PNG)
 ![wbs_two](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/wbs_two.PNG)
