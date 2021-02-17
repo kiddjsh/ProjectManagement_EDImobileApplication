@@ -1,8 +1,6 @@
 # ProjectManagement_EDImobileApplication
 
-# Project Package
-
-1.	Executive Summary
+# Executive Summary
 
 Founded in 1603, Green Man’s Pantry brings only authentic vegan goods, with a touch of ayurveda practices. From his own flurry of leaves, the company regularly introduces innovative plant-based alternatives, offering an assortment of products from all countries of the world, to their customers, that include various kinds of plants, plant milk and creams, seeds, mayonnaise, dressings, mock meat, fish substitutes, breads, pastries, vegan cheeses, chocolate, sweets, coffee, toiletries, cosmetics and food for domesticated animals—ranging from protein products, breakfast items, chilled goods and frozen food. All products are strictly plant-based as well as being certified organic.
 
