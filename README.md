@@ -90,7 +90,17 @@ A strong matrix structure has been selected for this software development projec
 
 # 7. Communications Management Plan
 
-
-
-
+![comm_one](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/comm_one.PNG)
+![comm_two](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/comm_two.PNG)
+![comm_three](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/comm_three.PNG)
+![comm_four](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/comm_four.PNG)
+![comm_five](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/comm_five.PNG)
+![comm_six](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/comm_six.PNG)
+![comm_seven](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/comm_seven.PNG)
+![comm_eight](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/comm_eight.PNG)
+![comm_nine](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/comm_nine.PNG)
+![comm_ten](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/comm_ten.PNG)
+![comm_eleven](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/comm_eleven.PNG)
+![comm_twelve](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/comm_twelve.PNG)
+![comm_thirteen](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/comm_thirteen.PNG)
 
