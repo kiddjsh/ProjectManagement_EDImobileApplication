@@ -75,3 +75,13 @@ A strong matrix structure has been selected for this software development projec
 ![wbs_six](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/wbs_six.PNG)
 ![wbs_seven](https://raw.githubusercontent.com/kiddjsh/ProjectManagement_EDImobileApplication/main/screenshots/wbs_seven.PNG)
 
+# 5. Risk Management Plan
+
+# 6. Project Budget and Resource Management Plan
+
+# 7. Communications Management Plan
+
+
+
+
+
